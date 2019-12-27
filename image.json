@@ -1,56 +1,56 @@
 [
     {
         "id": "1",
-        "name": "Roger Federer",
+        "name": "Цүнх",
         "country": "Switzerland",
         "city": "Basel",
         "imgURL": "https://tsolmon1.github.io/myappsample/images/gift1.jpg"
     },
     {
         "id": "2",
-        "name": "Rafael Nadal",
+        "name": "Малгай",
         "country": "Spain",
         "city": "Madrid",
         "imgURL": "https://tsolmon1.github.io/myappsample/images/gift2.jpg"
     },
     {
         "id": "3",
-        "name": "Novak Djokovic",
+        "name": "Аяга",
         "country": "Serbia",
         "city": "Monaco",
         "imgURL": "https://tsolmon1.github.io/myappsample/images/gift3.jpg"
     },
     {
         "id": "4",
-        "name": "Andy Murray",
+        "name": "Цаг",
         "country": "United Kingdom",
         "city": "London",
         "imgURL": "https://tsolmon1.github.io/myappsample/images/gift4.jpg"
     },
     {
         "id": "5",
-        "name": "Maria Sharapova",
+        "name": "Бамбарууш",
         "country": "Russia",
         "city": "Moscow",
         "imgURL": "https://tsolmon1.github.io/myappsample/images/gift5.jpg"
     },
     {
         "id": "6",
-        "name": "Caroline Wozniacki",
+        "name": "Цамц",
         "country": "Denmark",
         "city": "Odense",
         "imgURL": "https://tsolmon1.github.io/myappsample/images/gift6.jpg"
     },
     {
         "id": "7",
-        "name": "Eugenie Bouchard",
+        "name": "Виски",
         "country": "Canada",
         "city": " Montreal",
         "imgURL": "https://tsolmon1.github.io/myappsample/images/gift7.jpg"
     },
     {
         "id": "8",
-        "name": "Ana Ivanovic",
+        "name": "Дэр",
         "country": "Serbia",
         "city": "Belgrade",
         "imgURL": "https://tsolmon1.github.io/myappsample/images/gift8.jpg"
